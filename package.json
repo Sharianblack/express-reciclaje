@@ -1,0 +1,13 @@
+{
+  "name": "express-reciclaje",
+  "version": "1.0.0",
+  "description": "Servidor basico Express para reciclaje",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "qrcode": "^1.5.4"
+  }
+}
